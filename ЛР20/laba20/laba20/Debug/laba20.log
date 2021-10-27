@@ -1,0 +1,6 @@
+﻿  MyMathFuncs.cpp
+C:\Users\u381\Desktop\ЛР20\laba20\laba20\MyMathFuncs.cpp(8,2): warning C4273: MathFuncs::MyMathFuncs::Perimeter: несовместимое связывание dll
+C:\Users\u381\Desktop\ЛР20\laba20\laba20\MyMathFuncs.h(15,34): message : см. предыдущее определение "Perimeter"
+C:\Users\u381\Desktop\ЛР20\laba20\laba20\MyMathFuncs.cpp(17,2): warning C4273: MathFuncs::MyMathFuncs::Square: несовместимое связывание dll
+C:\Users\u381\Desktop\ЛР20\laba20\laba20\MyMathFuncs.h(14,34): message : см. предыдущее определение "Square"
+  laba20.vcxproj -> C:\Users\u381\Desktop\ЛР20\laba20\Debug\laba20.dll
